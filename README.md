@@ -118,11 +118,16 @@ GND rails.
 - The system enables real-time monitoring of heart rate, ECG signals, SpO₂ levels, and body
 temperature
 
-### ECG Monitoring System
+###
+ ECG Monitoring System
+
+https://github.com/user-attachments/assets/23f620de-4493-42ef-8b27-dae753e26f46
+
 
 The **ECG system** in MEDUINO uses the **AD8232 ECG sensor** connected to the **ESP32 microcontroller** to monitor the heart’s electrical activity in real time. Electrodes are placed on the **Right Arm (RA), Left Arm (LA), and Right Leg (RL)** to acquire accurate ECG signals. This setup enables remote monitoring of cardiovascular health, allowing early detection of abnormalities.
 
 **ECG Signal Interpretation:**  
+
 - **P Wave:** Start of a heartbeat (atrial depolarization).  
 - **QRS Complex:** Ventricular contraction.  
 - **T Wave:** Recovery after a heartbeat (ventricular repolarization).  

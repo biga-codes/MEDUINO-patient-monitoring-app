@@ -30,7 +30,10 @@ areas.
 ## App Demo:
 
 
-https://github.com/user-attachments/assets/b84e1051-0e43-4bcc-b0bb-71b78c6dd691
+
+https://github.com/user-attachments/assets/a0765c91-bb9c-4a8e-a97a-6bcf713800e2
+
+
 
 
 
